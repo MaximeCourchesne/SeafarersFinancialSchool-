@@ -41,3 +41,52 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+
+## Commands on ubuntu22
+sudo apt install ruby
+sudo apt install gem
+// make gcc and g++ also required for Jekyll
+
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+gem install jekyll bundler
+// make sure that git is installed
+
+sudo apt remove ruby-bundler ruby
+sudo apt update
+sudo apt install curl gpg gcc autoconf automake bison libffi-dev libgdbm-dev libncurses5-dev libsqlite3-dev libtool libyaml-dev make pkg-config sqlite3 zlib1g-dev libgmp-dev libreadline-dev
+
+command curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+command curl -sSL https://rvm.io/pkuczynski.asc | gpg --import -
+
+\curl -sSL https://get.rvm.io | bash -s stable
+
+source ~/.rvm/scripts/rvm
+rvm install 3.1.0
+rvm use 3.1.0 --default
+ruby -v
+
+// go to root of the project
+bundle
+
+// to run the website, execute
+bundle exec jekyll s
+
+
+
+
+
+
+
+
+
+
+// go to the root of the repo
+bundle
+
+
