@@ -1,6 +1,6 @@
 ---
 title: Basic finance and economics terms
-date: 2024-09-30 16:24:30 +500
+date: 2024-09-30 16:24:30 -0400
 categories: [basics]
 tags: [vocabulary,basics]     # TAG names should always be lowercase
 ---
