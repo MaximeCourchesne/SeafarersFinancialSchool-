@@ -1,8 +1,8 @@
 ---
-title: Test Of Jekyll Syntax
-date: 2024-09-29 16:24:30 +500
-categories: [tech,jekyll]
-tags: [website,jekyll]     # TAG names should always be lowercase
+title: Syntax for .md files
+date: 2024-09-29 16:24:30 -0400
+categories: [tech,programming,markdown]
+tags: [programming]     # TAG names should always be lowercase
 ---
 
 # Overview of Jekyll Syntax
