@@ -12,17 +12,17 @@ These terms are essential to understand more complex topics that will be discuss
 ### Supply and Demand
 The relationship between the quantity of goods available (supply) and the desire of the population for the goods (demand) is called **Supply and Demand**
 
-When a lot of people want a good or a service (**high demand**) and it is not well available (**low supply**), the good or service will have a **higher price**.</br>
-When few people want a good or a service (**low demand**) and it is very available (**high supply**), the good or service will have a **lower price**.</br>
+When a lot of people want a good or a service (**high demand**) and it is not well available (**low supply**), the good or service will have a **higher price**.
+When few people want a good or a service (**low demand**) and it is very available (**high supply**), the good or service will have a **lower price**.
 
 
 ### Market Equilibrium
 - **Market Equilibrium**: The point where supply equals demand, setting the price and quantity in a market.
 
 
-  When the price of an item $ \downarrow $, the number of items sold $ \uparrow $.
+  When the price of an item $\downarrow$, the number of items sold $\uparrow$.
 
-  When the price of an item $ \uparrow $, the number of items sold $ \downarrow $.  
+  When the price of an item $\uparrow$, the number of items sold $\downarrow$.  
 
 
   Profit is calculated as:
@@ -32,7 +32,7 @@ When few people want a good or a service (**low demand**) and it is very availab
   $$
   Suppliers will continue producing as long as they can sell the good at a price that exceeds the cost of producing one more unit (the marginal cost of production). Buyers will keep purchasing as long as the satisfaction they gain from consuming the good is greater than the price they pay (the marginal utility of consumption). If prices rise, new suppliers will be attracted to the market, increasing supply until the market reaches equilibrium again. Conversely, if prices fall, suppliers who can't cover their costs will exit the market.
 
-  Because of this,  stabilize at what is known as **Market Equilibrium**.<br /><br />
+  Because of this,  stabilize at what is known as **Market Equilibrium**.
 
 ### GDP
 **GDP (Gross Domestic Product)**: The total value of goods and services produced within a country in a specific period (usually one year). These are examples of the **GDP** of countries.
@@ -69,19 +69,18 @@ The **GDP** of a country gives a good indication of the size of an economy and h
 ## Finance
 
 ### Interest Rate
-An Interest Rate it the percentage charged by **lenders** to **borrowers** for the use of money. When you borrow money, the amount you initially borrow is called the **principal**. The interest is the additional amount that you owe the lender (fee for using their money)</br></br>
-
+An Interest Rate it the percentage charged by **lenders** to **borrowers** for the use of money. When you borrow money, the amount you initially borrow is called the **principal**. The interest is the additional amount that you owe the lender (fee for using their money)
 **Simple interest**:
 $$
 \text{Amount due after } n \text{ years} = \text{Principal} \times (1 + \text{Interest Rate} \times n)
 $$
-</br></br>
+
 **Compound interest**:
 $$
 \text{Amount due after } n \text{ years} = \text{Principal} \times (1 + \text{Interest Rate})^n
 $$
-</br></br>
-- **Example 1**: I am a bank that is ready to lend you $1000 at a 6% interest rate annually with simple interest.<br /><br />
+
+- **Example 1**: I am a bank that is ready to lend you $1000 at a 6% interest rate annually with simple interest.
 
 
 $$
@@ -113,5 +112,5 @@ $$
 | 4        | $262.48  | $1262.48          |
 | 5        | $338.23  | $1338.23          |
 
-</br>
+
 The difference between these two examples is that Example 1 uses simple interest whereas Example 2 uses compount interests. Notice that compound interests grow faster than simple interests.
