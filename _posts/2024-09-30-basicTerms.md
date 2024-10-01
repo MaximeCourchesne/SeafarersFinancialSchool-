@@ -3,11 +3,26 @@ title: Basic finance and economics terms
 date: 2024-09-30 16:24:30 -0400
 categories: [basics]
 tags: [vocabulary,basics]     # TAG names should always be lowercase
+math: true
+mermaid: true
 ---
 
 These terms are essential to understand more complex topics that will be discussed in later posts.
 
 ## Economics
+$$
+\begin{equation}
+  LaTeX_math_expression
+  \label{eq:label_name}
+\end{equation}
+$$
+```mermaid
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
 
 ### Supply and Demand
 The relationship between the quantity of goods available (supply) and the desire of the population for the goods (demand) is called **Supply and Demand**
