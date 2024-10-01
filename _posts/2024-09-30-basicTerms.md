@@ -9,13 +9,13 @@ mermaid: true
 
 These terms are essential to understand more complex topics that will be discussed in later posts.
 
-## Economics
+## Economics  
 $$
 \begin{equation}
   LaTeX_math_expression
   \label{eq:label_name}
 \end{equation}
-$$
+$$  
 ```mermaid
 graph LR
     A[Square Rect] -- Link text --> B((Circle))
@@ -40,17 +40,19 @@ When few people want a good or a service (**low demand**) and it is very availab
   When the price of an item $\uparrow$, the number of items sold $\downarrow$.  
 
 
-  Profit is calculated as:
+  Profit is calculated as:  
 
   $$
+  \begin{equation}
   \text{Profit} = \text{Number of items sold} \times \text{Price of item} \times \text{Profit margin}
-  $$
+  \end{equation}
+  $$  
 
   Suppliers will continue producing as long as they can sell the good at a price that exceeds the cost of producing one more unit (the marginal cost of production). Buyers will keep purchasing as long as the satisfaction they gain from consuming the good is greater than the price they pay (the marginal utility of consumption). If prices rise, new suppliers will be attracted to the market, increasing supply until the market reaches equilibrium again. Conversely, if prices fall, suppliers who can't cover their costs will exit the market.
 
   Because of this,  stabilize at what is known as **Market Equilibrium**.
 
-### GDP
+### GDP</br>
 **GDP (Gross Domestic Product)**: The total value of goods and services produced within a country in a specific period (usually one year). These are examples of the **GDP** of countries.
 
 | Country    | GDP (trillion USD) |
@@ -67,17 +69,21 @@ The **GDP** of a country gives a good indication of the size of an economy and h
 ### Inflation
 **Inflation**: The rate at which the price of a diversified basket of goods is increasing.
 
-  For example, if you calculate the price of a basket of goods (e.g., apple, gas, tissue, Big Mac, and 100 more items) in 2023 and it costs you \$10,000, and then you recalculate the price of the same basket in 2024 and it costs \$10,400, you can calculate **inflation** as follows:
-
-  $$ 
+  For example, if you calculate the price of a basket of goods (e.g., apple, gas, tissue, Big Mac, and 100 more items) in 2023 and it costs you \$10,000, and then you recalculate the price of the same basket in 2024 and it costs \$10,400, you can calculate **inflation** as follows:  
+  
+  $$
+  \begin{equation}
   \text{Inflation} = \frac{\text{Price in year } n - \text{Price in year 0}}{\text{Price in year 0}} 
-  $$
+  \end{equation}
+  $$  
 
-  So, for this example:
+  So, for this example:  
 
   $$
+  \begin{equation}
   \text{Inflation} = \frac{10400 - 10000}{10000} = 0.04 \text{ or } 4\%
-  $$
+  \end{equation}
+  $$  
 
   **Inflation** is usually reported annually.
 
@@ -86,25 +92,29 @@ The **GDP** of a country gives a good indication of the size of an economy and h
 
 ### Interest Rate
 An Interest Rate it the percentage charged by **lenders** to **borrowers** for the use of money. When you borrow money, the amount you initially borrow is called the **principal**. The interest is the additional amount that you owe the lender (fee for using their money)
-**Simple interest**:
+**Simple interest**:  
 $$
+\begin{equation}
 \text{Amount due after } n \text{ years} = \text{Principal} \times (1 + \text{Interest Rate} \times n)
-$$
+\end{equation}
+$$  
 
-**Compound interest**:
+**Compound interest**:  
 $$
+\begin{equation}
 \text{Amount due after } n \text{ years} = \text{Principal} \times (1 + \text{Interest Rate})^n
+\end{equation}
+$$  
+
+- **Example 1**: I am a bank that is ready to lend you $1000 at a 6% interest rate annually with simple interest.  
+
+
 $$
-
-- **Example 1**: I am a bank that is ready to lend you $1000 at a 6% interest rate annually with simple interest.
-
-
-$$
-\begin{aligned}
+\begin{equation}
 &\text{Principal} = 1000\$\\\
 &\text{Amount due after } n \text{ years} = 1000\$ \times (1 + 0.06 \times n)
-\end{aligned}
-$$
+\end{equation}
+$$  
 
 | Year (n) | Interest | Total Amount Due |
 |----------|----------|------------------|
@@ -116,10 +126,12 @@ $$
 | 5        | $300     | $1300            |
 
 - **Example 2**: I am a bank that is ready to lend you $1000 at a 6% interest rate annually with compound interest.
-Principal = $1000
+Principal = $1000  
 $$
+\begin{equation}
 \text{Amount due after } n \text{ years} = 1000 \times (1 + 0.06)^n
-$$
+\end{equation}
+$$  
 
 | Year (n) | Interest | Total Amount Due |
 |----------|----------|-------------------|
