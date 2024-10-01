@@ -77,16 +77,3 @@ bundle
 // to run the website, execute
 bundle exec jekyll s
 
-
-
-
-
-
-
-
-
-
-// go to the root of the repo
-bundle
-
-
