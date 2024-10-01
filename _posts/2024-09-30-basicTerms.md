@@ -74,7 +74,7 @@ The **GDP** of a country gives a good indication of the size of an economy and h
 ### Inflation
 **Inflation**: The rate at which the price of a diversified basket of goods is increasing.
 
-  For example, if you calculate the price of a basket of goods (e.g., apple, gas, tissue, Big Mac, and 100 more items) in 2023 and it costs you 10,000$, and then you recalculate the price of the same basket in 2024 and it costs 10,400$, you can calculate **inflation** as follows:  
+  For example, if you calculate the price of a basket of goods (e.g., apple, gas, tissue, Big Mac, and 100 more items) in 2023 and it costs you 10,000`$`, and then you recalculate the price of the same basket in 2024 and it costs 10,400`$`, you can calculate **inflation** as follows:  
   <br>
   $$
   \begin{equation}
