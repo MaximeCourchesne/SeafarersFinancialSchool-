@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Run jekyll serve and then launch the site
-
+s
 prod=false
 command="bundle exec jekyll s -l"
 host="127.0.0.1"
