@@ -54,7 +54,7 @@ $$
 - **$x = 3$** in $\mathbb{R}^1$ is a point.
 - In $\mathbb{R}^2$, $x = 3$ is a vertical line.
 - In $\mathbb{R}^3$, $x = 3$ defines a plane parallel to the $yz$-plane.
-![img-description](../images\2024-10-05-math_review_graph\math_review_graph0.png)
+![img-description](../images/2024-10-05-math_review_graph/math_review_graph0.png)
 
 
 ## Example 2: A Line Equation
@@ -63,12 +63,12 @@ Consider $y = 2x - 3$.
 
 - In $\mathbb{R}^2$, this represents a straight line.
 - In $\mathbb{R}^3$, this describes a plane of all points satisfying $y = 2x - 3$ regardless of $z$.
-![img-description](../images\2024-10-05-math_review_graph\math_review_graph1.png)
+![img-description](../images/2024-10-05-math_review_graph/math_review_graph1.png)
 
 ## Graphing a Circle in $\mathbb{R}^3$
 
 In $\mathbb{R}^2$, $x^2 + y^2 = 4$ represents a circle. To graph this in $\mathbb{R}^3$, we must specify a $z$-value, for example $z = 5$. This results in a circle in the plane at $z = 5$.
-![img-description](../images\2024-10-05-math_review_graph\math_review_graph2.png)
+![img-description](../images/2024-10-05-math_review_graph/math_review_graph2.png)
 
 ## Applications in Finance and Economics
 
