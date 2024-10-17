@@ -1,6 +1,6 @@
 ---
 title: Corporate Finance Overview
-date: 2024-10-17 16:24:30 -0400
+date: 2024-10-17 8:24:30 -0400
 categories: [finance]
 tags: [finance,corporate]     # TAG names should always be lowercase
 math: true
