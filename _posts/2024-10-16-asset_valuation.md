@@ -1,6 +1,6 @@
 ---
 title: Asset Valuation Principles and Examples
-date: 2024-10-17 16:24:30 -0400
+date: 2024-10-16 16:24:30 -0400
 categories: [finance]
 tags: [finance,assets]     # TAG names should always be lowercase
 math: true
