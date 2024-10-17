@@ -1,12 +1,11 @@
 ---
 title: Corporate Finance Overview
-date: 2024-10-17 17:29:30 -0400
+date: 2024-10-17 16:24:30 -0400
 categories: [finance]
-tags: []     # TAG names should always be lowercase
+tags: [finance,corporate]     # TAG names should always be lowercase
 math: true
+mermaid: true
 ---
-
-# **Corporate Finance overview**
 
 Corporations constantly face two crucial decisions: **investment** and **financing**. These decisions, when made effectively, help increase the value of the business, ultimately benefiting shareholders. 
 
